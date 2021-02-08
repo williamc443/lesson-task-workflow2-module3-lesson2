@@ -1,6 +1,6 @@
 # Workflow 2 - Module 3
 
-## Lesson Task 3 Questions
+## Lesson Task 2 Questions
 
 ### Question 1
 
