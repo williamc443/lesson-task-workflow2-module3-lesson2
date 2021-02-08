@@ -1,0 +1,26 @@
+{
+  "name": "lesson-task-workflow2-module3-lesson3",
+  "version": "1.0.0",
+  "description": "## Lesson Task 3 Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson3/issues"
+  },
+  "homepage": "https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson3#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
