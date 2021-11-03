@@ -1,0 +1,6 @@
+
+async function callApiWithAxios() {
+    const response = await callApiWithAxios(url);
+    console.log(response);
+   }
+   export default callApiWithAxios();
